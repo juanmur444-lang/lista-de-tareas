@@ -2,6 +2,8 @@
 
 Aplicación web sencilla para anotar tareas, marcarlas como completadas y eliminarlas. Hecha con HTML, CSS y JavaScript puro, manipulando el DOM.
 
+**Demo:** https://juanmur444-lang.github.io/lista-de-tareas/
+
 Práctica académica del Tecnólogo en Análisis y Desarrollo de Software (ADSO), SENA.
 
 ## Funcionalidades
